@@ -8,7 +8,7 @@ def respond():
     name = request.args.get("name", None)
 
     # For debugging
-    print "Hare Krishna"
+    print("Hare Krishna")
 
     response = {}
 
